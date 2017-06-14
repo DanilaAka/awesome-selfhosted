@@ -30,7 +30,9 @@
 ## Federated Identity/Authentication
 
   * [Auth0](https://auth0.com/docs/appliance): `⊘ Proprietary`. Identity made simple for developers. `NodeJS`
-
+  
+## Feedback Collecting
+  * [UseResponse](https://www.useresponse.com/) `⊘ Proprietary` - All-in-one solution (feedback, help desk, live chat, knowledge base). Availiable in cloud and self-hosted.. ([Trial](https://www.useresponse.com/trial)) `PHP`
   
 ## Feed Readers
 
@@ -107,3 +109,4 @@
   
 ## Ticketing
   * [SupportPal](https://www.supportpal.com/) `⊘ Proprietary` - Powerful help desk software - easy, fast and intuitive. ([Demo](http://demo.supportpal.com/)) `PHP`
+
